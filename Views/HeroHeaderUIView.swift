@@ -7,7 +7,7 @@
 
 import UIKit
 
-class HeroHeaderUIIView: UIView {
+class HeroHeaderUIView: UIView {
     
     private let playButton: UIButton = {
         let button = UIButton()
